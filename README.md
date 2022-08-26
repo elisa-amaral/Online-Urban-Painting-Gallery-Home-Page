@@ -1,7 +1,6 @@
 # Art - Online Urban Painting Gallery - Home Page
 
-This project is the home page of a fictional online urban painting gallery named Art.
-It was coded in HTML, CSS and Bootstrap 5.
+This project is the home page of a fictional online urban painting gallery named Art, it was coded in HTML, CSS and Bootstrap 5.
 
 ## Screenshot 1
 

@@ -2,7 +2,7 @@
 
 This project is the home page of a fictional online urban painting gallery named Art. 
 
-## Project Link
+## Project Website
 
 **https://online-gallery-home-page.netlify.app/**
 
